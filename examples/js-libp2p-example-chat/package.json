@@ -23,6 +23,7 @@
     "@libp2p/websockets": "^8.0.4",
     "@multiformats/multiaddr": "^12.1.11",
     "@nodeutils/defaults-deep": "^1.1.0",
+    "@okcontract/cells": "^0.2.1",
     "it-length-prefixed": "^9.0.1",
     "it-map": "^3.0.3",
     "it-pipe": "^3.0.1",
@@ -33,5 +34,5 @@
   "devDependencies": {
     "test-ipfs-example": "^1.1.0"
   },
-  "private": true
+  "private": false
 }
